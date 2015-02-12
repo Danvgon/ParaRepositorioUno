@@ -1,5 +1,5 @@
 
-public abstract class clase01 {
+public class clase01 {
 int numero;
 int cosa;
 String letra;
